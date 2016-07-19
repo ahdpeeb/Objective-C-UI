@@ -11,12 +11,9 @@
 		93C0831A1D3B8C530077A81C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93C0830B1D3B8C530077A81C /* Assets.xcassets */; };
 		93C0831B1D3B8C530077A81C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93C0830C1D3B8C530077A81C /* LaunchScreen.storyboard */; };
 		93C0831C1D3B8C530077A81C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93C0830C1D3B8C530077A81C /* LaunchScreen.storyboard */; };
-		93C083341D3B8CEB0077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C083311D3B8CEB0077A81C /* Info.plist */; };
-		93C083351D3B8CEB0077A81C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083321D3B8CEB0077A81C /* main.m */; };
-		93C083361D3B8CEB0077A81C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083321D3B8CEB0077A81C /* main.m */; };
 		93C083381D3BCE080077A81C /* iOS Study Plan.txt in Resources */ = {isa = PBXBuildFile; fileRef = 93C083371D3BCE080077A81C /* iOS Study Plan.txt */; };
 		93C083391D3BCE080077A81C /* iOS Study Plan.txt in Resources */ = {isa = PBXBuildFile; fileRef = 93C083371D3BCE080077A81C /* iOS Study Plan.txt */; };
-		93C0835F1D3E2CDF0077A81C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C0835E1D3E2CDF0077A81C /* AppDelegate.m */; };
+		93C0835F1D3E2CDF0077A81C /* ANSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C0835E1D3E2CDF0077A81C /* ANSAppDelegate.m */; };
 		93C083631D3E2CFB0077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C083611D3E2CFB0077A81C /* Info.plist */; };
 		93C083641D3E2CFB0077A81C /* IOS_ProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083621D3E2CFB0077A81C /* IOS_ProjectUITests.m */; };
 		CA6D3A3EF1202DF886F6E1C1 /* libPods-IOS ProjectUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2125929F3A0FB4C127DD4407 /* libPods-IOS ProjectUITests.a */; };
@@ -39,11 +36,9 @@
 		93ABC0A01D3B884B00FC420F /* IOS ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93C0830B1D3B8C530077A81C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		93C0830D1D3B8C530077A81C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		93C083311D3B8CEB0077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93C083321D3B8CEB0077A81C /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		93C083371D3BCE080077A81C /* iOS Study Plan.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "iOS Study Plan.txt"; sourceTree = "<group>"; };
-		93C0835D1D3E2CDF0077A81C /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		93C0835E1D3E2CDF0077A81C /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		93C0835D1D3E2CDF0077A81C /* ANSAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANSAppDelegate.h; sourceTree = "<group>"; };
+		93C0835E1D3E2CDF0077A81C /* ANSAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANSAppDelegate.m; sourceTree = "<group>"; };
 		93C083611D3E2CFB0077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93C083621D3E2CFB0077A81C /* IOS_ProjectUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IOS_ProjectUITests.m; sourceTree = "<group>"; };
 		AD0BAE58EE4433313BBE3187 /* Pods-IOS ProjectUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IOS ProjectUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IOS ProjectUITests/Pods-IOS ProjectUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -91,8 +86,8 @@
 				93C083371D3BCE080077A81C /* iOS Study Plan.txt */,
 				93C083101D3B8C530077A81C /* Sourse */,
 				93C0830A1D3B8C530077A81C /* Resourses */,
-				93C083601D3E2CFB0077A81C /* IOS ProjectUITests */,
 				93C083301D3B8CEB0077A81C /* IOS Project */,
+				93C083601D3E2CFB0077A81C /* IOS ProjectUITests */,
 				93C083231D3B8C650077A81C /* Other */,
 			);
 			sourceTree = "<group>";
@@ -135,10 +130,8 @@
 		93C083301D3B8CEB0077A81C /* IOS Project */ = {
 			isa = PBXGroup;
 			children = (
-				93C0835D1D3E2CDF0077A81C /* AppDelegate.h */,
-				93C0835E1D3E2CDF0077A81C /* AppDelegate.m */,
-				93C083311D3B8CEB0077A81C /* Info.plist */,
-				93C083321D3B8CEB0077A81C /* main.m */,
+				93C0835D1D3E2CDF0077A81C /* ANSAppDelegate.h */,
+				93C0835E1D3E2CDF0077A81C /* ANSAppDelegate.m */,
 			);
 			path = "IOS Project";
 			sourceTree = "<group>";
@@ -249,7 +242,6 @@
 			files = (
 				93C083391D3BCE080077A81C /* iOS Study Plan.txt in Resources */,
 				93C0831C1D3B8C530077A81C /* LaunchScreen.storyboard in Resources */,
-				93C083341D3B8CEB0077A81C /* Info.plist in Resources */,
 				93C083631D3E2CFB0077A81C /* Info.plist in Resources */,
 				93C0831A1D3B8C530077A81C /* Assets.xcassets in Resources */,
 			);
@@ -295,8 +287,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93C083351D3B8CEB0077A81C /* main.m in Sources */,
-				93C0835F1D3E2CDF0077A81C /* AppDelegate.m in Sources */,
+				93C0835F1D3E2CDF0077A81C /* ANSAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,7 +295,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93C083361D3B8CEB0077A81C /* main.m in Sources */,
 				93C083641D3E2CFB0077A81C /* IOS_ProjectUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

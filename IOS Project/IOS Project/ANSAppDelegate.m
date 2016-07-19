@@ -1,18 +1,18 @@
 //
-//  AppDelegate.m
+//  ANSAppDelegate.m
 //  IOS Project
 //
 //  Created by Nikola Andriiev on 17.07.16.
 //  Copyright © 2016 Andriiev.Mykola. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "ANSAppDelegate.h"
 
-@interface AppDelegate ()
+@interface ANSAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation ANSAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

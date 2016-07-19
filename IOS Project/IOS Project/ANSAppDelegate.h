@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  ANSAppDelegate.h
 //  IOS Project
 //
 //  Created by Nikola Andriiev on 17.07.16.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface ANSAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
