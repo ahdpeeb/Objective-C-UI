@@ -13,17 +13,17 @@
 		93C0831C1D3B8C530077A81C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93C0830C1D3B8C530077A81C /* LaunchScreen.storyboard */; };
 		93C0831F1D3B8C530077A81C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083121D3B8C530077A81C /* AppDelegate.m */; };
 		93C083201D3B8C530077A81C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083121D3B8C530077A81C /* AppDelegate.m */; };
-		93C083271D3B8CB40077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C083251D3B8CB40077A81C /* Info.plist */; };
-		93C083281D3B8CB40077A81C /* IOS_ProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083261D3B8CB40077A81C /* IOS_ProjectUITests.m */; };
-		93C0832C1D3B8CDB0077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C0832A1D3B8CDB0077A81C /* Info.plist */; };
-		93C0832D1D3B8CDB0077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C0832A1D3B8CDB0077A81C /* Info.plist */; };
-		93C0832E1D3B8CDB0077A81C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C0832B1D3B8CDB0077A81C /* main.m */; };
-		93C0832F1D3B8CDB0077A81C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C0832B1D3B8CDB0077A81C /* main.m */; };
 		93C083341D3B8CEB0077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C083311D3B8CEB0077A81C /* Info.plist */; };
 		93C083351D3B8CEB0077A81C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083321D3B8CEB0077A81C /* main.m */; };
 		93C083361D3B8CEB0077A81C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083321D3B8CEB0077A81C /* main.m */; };
 		93C083381D3BCE080077A81C /* iOS Study Plan.txt in Resources */ = {isa = PBXBuildFile; fileRef = 93C083371D3BCE080077A81C /* iOS Study Plan.txt */; };
 		93C083391D3BCE080077A81C /* iOS Study Plan.txt in Resources */ = {isa = PBXBuildFile; fileRef = 93C083371D3BCE080077A81C /* iOS Study Plan.txt */; };
+		93C083571D3E2C260077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C0834F1D3E2C260077A81C /* Info.plist */; };
+		93C083581D3E2C260077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C083511D3E2C260077A81C /* Info.plist */; };
+		93C083591D3E2C260077A81C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C083531D3E2C260077A81C /* Info.plist */; };
+		93C0835A1D3E2C260077A81C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083541D3E2C260077A81C /* main.m */; };
+		93C0835B1D3E2C260077A81C /* IOS_ProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083551D3E2C260077A81C /* IOS_ProjectUITests.m */; };
+		93C0835C1D3E2C260077A81C /* IOS_ProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C083561D3E2C260077A81C /* IOS_ProjectUITests.m */; };
 		CA6D3A3EF1202DF886F6E1C1 /* libPods-IOS ProjectUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2125929F3A0FB4C127DD4407 /* libPods-IOS ProjectUITests.a */; };
 /* End PBXBuildFile section */
 
@@ -46,13 +46,15 @@
 		93C0830D1D3B8C530077A81C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93C083111D3B8C530077A81C /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		93C083121D3B8C530077A81C /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		93C083251D3B8CB40077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93C083261D3B8CB40077A81C /* IOS_ProjectUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IOS_ProjectUITests.m; sourceTree = "<group>"; };
-		93C0832A1D3B8CDB0077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93C0832B1D3B8CDB0077A81C /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		93C083311D3B8CEB0077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93C083321D3B8CEB0077A81C /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		93C083371D3BCE080077A81C /* iOS Study Plan.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "iOS Study Plan.txt"; sourceTree = "<group>"; };
+		93C0834F1D3E2C260077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93C083511D3E2C260077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93C083531D3E2C260077A81C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93C083541D3E2C260077A81C /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		93C083551D3E2C260077A81C /* IOS_ProjectUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IOS_ProjectUITests.m; sourceTree = "<group>"; };
+		93C083561D3E2C260077A81C /* IOS_ProjectUITests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IOS_ProjectUITests.m; sourceTree = "<group>"; };
 		AD0BAE58EE4433313BBE3187 /* Pods-IOS ProjectUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IOS ProjectUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IOS ProjectUITests/Pods-IOS ProjectUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -98,8 +100,8 @@
 				93C083371D3BCE080077A81C /* iOS Study Plan.txt */,
 				93C083101D3B8C530077A81C /* Sourse */,
 				93C0830A1D3B8C530077A81C /* Resourses */,
+				93C0834E1D3E2C260077A81C /* IOS ProjectUITests */,
 				93C083301D3B8CEB0077A81C /* IOS Project */,
-				93C083241D3B8CB40077A81C /* IOS ProjectUITests */,
 				93C083231D3B8C650077A81C /* Other */,
 			);
 			sourceTree = "<group>";
@@ -141,31 +143,41 @@
 			name = Other;
 			sourceTree = "<group>";
 		};
-		93C083241D3B8CB40077A81C /* IOS ProjectUITests */ = {
-			isa = PBXGroup;
-			children = (
-				93C083291D3B8CDB0077A81C /* IOS Project */,
-				93C083251D3B8CB40077A81C /* Info.plist */,
-				93C083261D3B8CB40077A81C /* IOS_ProjectUITests.m */,
-			);
-			name = "IOS ProjectUITests";
-			path = "Sourse/IOS ProjectUITests";
-			sourceTree = "<group>";
-		};
-		93C083291D3B8CDB0077A81C /* IOS Project */ = {
-			isa = PBXGroup;
-			children = (
-				93C0832A1D3B8CDB0077A81C /* Info.plist */,
-				93C0832B1D3B8CDB0077A81C /* main.m */,
-			);
-			path = "IOS Project";
-			sourceTree = "<group>";
-		};
 		93C083301D3B8CEB0077A81C /* IOS Project */ = {
 			isa = PBXGroup;
 			children = (
 				93C083311D3B8CEB0077A81C /* Info.plist */,
 				93C083321D3B8CEB0077A81C /* main.m */,
+			);
+			path = "IOS Project";
+			sourceTree = "<group>";
+		};
+		93C0834E1D3E2C260077A81C /* IOS ProjectUITests */ = {
+			isa = PBXGroup;
+			children = (
+				93C0834F1D3E2C260077A81C /* Info.plist */,
+				93C083501D3E2C260077A81C /* IOS ProjectUITests */,
+				93C083561D3E2C260077A81C /* IOS_ProjectUITests.m */,
+			);
+			name = "IOS ProjectUITests";
+			path = "IOS Project/IOS ProjectUITests";
+			sourceTree = "<group>";
+		};
+		93C083501D3E2C260077A81C /* IOS ProjectUITests */ = {
+			isa = PBXGroup;
+			children = (
+				93C083511D3E2C260077A81C /* Info.plist */,
+				93C083521D3E2C260077A81C /* IOS Project */,
+				93C083551D3E2C260077A81C /* IOS_ProjectUITests.m */,
+			);
+			path = "IOS ProjectUITests";
+			sourceTree = "<group>";
+		};
+		93C083521D3E2C260077A81C /* IOS Project */ = {
+			isa = PBXGroup;
+			children = (
+				93C083531D3E2C260077A81C /* Info.plist */,
+				93C083541D3E2C260077A81C /* main.m */,
 			);
 			path = "IOS Project";
 			sourceTree = "<group>";
@@ -254,7 +266,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93C0832C1D3B8CDB0077A81C /* Info.plist in Resources */,
 				93C083381D3BCE080077A81C /* iOS Study Plan.txt in Resources */,
 				93C0831B1D3B8C530077A81C /* LaunchScreen.storyboard in Resources */,
 				93C083191D3B8C530077A81C /* Assets.xcassets in Resources */,
@@ -265,12 +276,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93C083271D3B8CB40077A81C /* Info.plist in Resources */,
 				93C083391D3BCE080077A81C /* iOS Study Plan.txt in Resources */,
 				93C0831C1D3B8C530077A81C /* LaunchScreen.storyboard in Resources */,
+				93C083581D3E2C260077A81C /* Info.plist in Resources */,
 				93C083341D3B8CEB0077A81C /* Info.plist in Resources */,
+				93C083571D3E2C260077A81C /* Info.plist in Resources */,
 				93C0831A1D3B8C530077A81C /* Assets.xcassets in Resources */,
-				93C0832D1D3B8CDB0077A81C /* Info.plist in Resources */,
+				93C083591D3E2C260077A81C /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,7 +326,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93C0832E1D3B8CDB0077A81C /* main.m in Sources */,
 				93C083351D3B8CEB0077A81C /* main.m in Sources */,
 				93C0831F1D3B8C530077A81C /* AppDelegate.m in Sources */,
 			);
@@ -325,8 +336,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				93C083361D3B8CEB0077A81C /* main.m in Sources */,
-				93C083281D3B8CB40077A81C /* IOS_ProjectUITests.m in Sources */,
-				93C0832F1D3B8CDB0077A81C /* main.m in Sources */,
+				93C0835C1D3E2C260077A81C /* IOS_ProjectUITests.m in Sources */,
+				93C0835B1D3E2C260077A81C /* IOS_ProjectUITests.m in Sources */,
+				93C0835A1D3E2C260077A81C /* main.m in Sources */,
 				93C083201D3B8C530077A81C /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
